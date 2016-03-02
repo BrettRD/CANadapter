@@ -1,4 +1,4 @@
-update=Mo 01 Feb 2016 13:02:17 CET
+update=Mi 02 Mär 2016 10:00:09 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=FabLab
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/kicad/Documents/CANadapter/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
