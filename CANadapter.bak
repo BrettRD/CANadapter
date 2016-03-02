@@ -563,7 +563,7 @@ F 3 "" H 1600 5150 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 Text Notes 1350 4200 0    60   ~ 0
-Pmod UART compatible
+Pmod UART compatible\nconnector
 Text Notes 5400 1100 2    60   ~ 0
 Logic Level
 Text Notes 5700 1100 0    60   ~ 0
@@ -807,7 +807,7 @@ Wire Wire Line
 Wire Wire Line
 	6300 1700 6300 1600
 Text Notes 2950 4200 0    60   ~ 0
-Pmod SPI compatible
+Pmod SPI compatible\nConnector
 Text Label 1800 1400 0    60   ~ 0
 CS
 Text Label 1800 1600 0    60   ~ 0
