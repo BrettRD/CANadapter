@@ -1,4 +1,4 @@
-update=Mi 02 Mär 2016 10:00:09 CET
+update=So 29 Mai 2016 09:22:20 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,7 +65,7 @@ PageLayoutDescrFile=
 PlotDirectoryName=/home/kicad/Documents/CANadapter/
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
