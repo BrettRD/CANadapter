@@ -241,7 +241,7 @@ U 1 1 56B19455
 P 7950 2000
 F 0 "JP3" H 7950 2080 50  0000 C CNN
 F 1 "Terminate" H 7960 1940 50  0001 C CNN
-F 2 "LocalLib:JumperSingleJumbo" H 7950 2000 50  0001 C CNN
+F 2 "LocalLib:JumperSingle" H 7950 2000 50  0001 C CNN
 F 3 "" H 7950 2000 50  0000 C CNN
 	1    7950 2000
 	0    -1   -1   0   
@@ -252,7 +252,7 @@ U 1 1 56B1999A
 P 8150 2000
 F 0 "JP5" H 8150 2080 50  0000 C CNN
 F 1 "Terminate" H 8160 1940 50  0000 C CNN
-F 2 "LocalLib:JumperSingleJumbo" H 8150 2000 50  0001 C CNN
+F 2 "LocalLib:JumperSingle" H 8150 2000 50  0001 C CNN
 F 3 "" H 8150 2000 50  0000 C CNN
 	1    8150 2000
 	0    -1   1    0   
@@ -263,7 +263,7 @@ U 1 1 56B19FC8
 P 8400 2500
 F 0 "JP4" H 8400 2580 50  0000 C CNN
 F 1 "Filter" H 8410 2440 50  0000 C CNN
-F 2 "LocalLib:JumperSingleJumbo" H 8400 2500 50  0001 C CNN
+F 2 "LocalLib:JumperSingle" H 8400 2500 50  0001 C CNN
 F 3 "" H 8400 2500 50  0000 C CNN
 	1    8400 2500
 	1    0    0    -1  
@@ -384,7 +384,7 @@ U 1 1 56B1DEDE
 P 9700 4150
 F 0 "JP6" H 9700 4230 50  0000 C CNN
 F 1 "Line Power" H 9710 4090 50  0000 C CNN
-F 2 "LocalLib:JumperSingleJumbo" H 9700 4150 50  0001 C CNN
+F 2 "LocalLib:JumperSingle" H 9700 4150 50  0001 C CNN
 F 3 "" H 9700 4150 50  0000 C CNN
 	1    9700 4150
 	-1   0    0    -1  
